@@ -8,13 +8,13 @@
 // GPL license
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
-use <botsparts/plus/union.scad>
-use <botsparts/plus/parts.scad>
+use <botparts/plus/union.scad>
+use <botparts/plus/parts.scad>
 
-use <botsparts/head.scad>
-use <botsparts/trunk.scad>
-use <botsparts/hipandlegs.scad>
-use <botsparts/arm.scad>
+use <botparts/head.scad>
+use <botparts/trunk.scad>
+use <botparts/hipandlegs.scad>
+use <botparts/arm.scad>
 
 //-----------------------------------------------------------------
 //-- medidas de los botones automáticos
