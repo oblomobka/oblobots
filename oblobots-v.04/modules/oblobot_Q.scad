@@ -177,7 +177,7 @@ exp2=eyes[4];	// [0:100] factor de expresión de los ojos (para tipo 2 y 4)
 
 	// --- Cuello
 	nd=ud1+2;		//diámetro del cuello
-	nh=10;			//altura del cuello
+	nh=2;			//altura del cuello
 	nn=badge[1];			//nº de lados del cuello
 
 
@@ -225,7 +225,7 @@ legb=legs[3];			// [0:100] factor de separación entre piernas
 
 	// --- Cintura
 	wd=ud3+7;		//diámetro de la cintura
-	wh=4;			//altura de la cintura
+	wh=1;			//altura de la cintura
 	wn=badge[1];		//nº de lados de la cintura
 
 // --- escudo
